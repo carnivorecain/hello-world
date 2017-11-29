@@ -1,2 +1,2 @@
 # hello-world
-hi
+Hello there! I'm so fucked for this class.
